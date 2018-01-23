@@ -1,0 +1,7 @@
+{
+    "name": "doit",
+    "version": "0.0.1",
+    "description": "an npm package with no dependencies",
+    "license": "MIT",
+    "dependencies": {}
+}
